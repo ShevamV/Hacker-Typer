@@ -7,9 +7,10 @@ body {
 .accessGranted {
   position: fixed;
   top: 200px;
-  background: #333;
+  color: #00f;
+  background: #115;
   padding: 20px;
-  border: 1px solid #999;
+  border: 1px solid #00f;
   width: 300px;
   left: 50%;
   margin-left: -150px;
